@@ -22,5 +22,10 @@
   "homepage": "https://github.com/cory-hall/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.2.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0"
   }
 }
